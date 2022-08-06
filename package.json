@@ -1,0 +1,11 @@
+{
+  "name": "disable-console",
+  "version": "1.0.0",
+  "description": "A simple module to deactivate and reactivate the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yvain",
+  "license": "ISC"
+}
